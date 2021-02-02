@@ -5,6 +5,6 @@ Test with Heroku
     <tittle>PHP test</tittle>
   </head>
   <body>
-    <?PHP echo '<p>Hello WOrld</p>';?>
+    <?php echo '<p>Hello World</p>'; ?>
   </body>
 </html>
